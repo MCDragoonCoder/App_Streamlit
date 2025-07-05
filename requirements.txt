@@ -3,3 +3,4 @@ praw
 pandas
 matplotlib
 vaderSentiment
+nltk
